@@ -1,0 +1,1 @@
+GET https://api.jcdecaux.com/vls/v1/stations?contract=Toulouse&apiKey=397a31b163129affc10acc002c5db644c338ad54 HTTP/1.1
